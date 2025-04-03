@@ -1,16 +1,44 @@
-# todo_app
+# To-Do App
 
-A new Flutter project.
+A simple To-Do app built with Flutter that allows users to add and remove tasks easily.
 
-## Getting Started
+## Features
+- Add new tasks
+- Remove tasks
+- Persistent state (optional)
+- Clean and simple UI
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Lahiru20/todo-app-flutter.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd todo-app-flutter
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements
+- Flutter SDK
+- Dart
+- Android Studio or Visual Studio Code (with Flutter extension)
+
+## Usage
+1. Open the app.
+2. Tap on the "Add Task" button to add a new task.
+3. slide on a task and tap delete icon to remove it from the list.
+
+## Contributing
+Contributions are welcome! Feel free to submit a pull request.
+
